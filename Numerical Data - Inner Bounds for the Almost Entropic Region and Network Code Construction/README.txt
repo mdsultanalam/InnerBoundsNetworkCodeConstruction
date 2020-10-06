@@ -1,6 +1,6 @@
 Detailed numerical Data for the paper: Inner Bounds for the Almost Entropic Region and Network Code Construction
 
-Authors: Sultan Alam, Student Member, IEEE, Satyajit Thakor, Member, IEEE, and Syed Abbas
+Authors: Sultan Alam, Student Member, IEEE, Satyajit Thakor, Senior Member, IEEE, and Syed Abbas
 
 
 There are three directories: 1) Entropic Vectors and Associated Distributions- Section III, 2) Inner Bounds- Section IV, 3) Network Coding- Section V.
@@ -18,7 +18,8 @@ Subdirectory "Data For The Three Different Target Points" contains the data (of 
 File "EntropicPointResults.mat",
 File "FourAtomConjecturePointResults.mat", 
 
-File "VamosPolymatroidResults.mat".
+
+File "VamosPolymatroidResults.mat".
 
 
 
@@ -37,7 +38,8 @@ Each of the above files contains the parameters: AllEntropyH, AllP, ingScore, it
 
 "normDistance" stands for the normalized distances, a vector of 1x200 containing normalized distances. 
 
-
+
+
 Subdirectory "Table I Data" contains the data of TABLE I in the following files: 
 
 
@@ -51,7 +53,8 @@ File "Min Ingleton Score of h.mat" contains four parameters: H, IngletonScoreOfH
 "numberOfIterations" stands for number of iterations taken to achieve minimum Ingleton score,
 
 "P" stands for the distribution associated with H. 
-
+
+
 File "Max Violation Index of h.mat" contains four parameters H, numberOfIterations, P, violation_Index. Here,
 
 "H" stands for the entropy vector corresponding to the maximum Ingleton violation index, 
