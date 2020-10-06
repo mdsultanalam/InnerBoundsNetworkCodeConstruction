@@ -1,6 +1,6 @@
 Detailed numerical Data for the paper: Inner Bounds for the Almost Entropic Region and Network Code Construction
 
-Authors: Sultan Alam, Student Member, IEEE, Satyajit Thakor, Member, IEEE, and Syed Abbas
+Authors: Sultan Alam, Student Member, IEEE, Satyajit Thakor, Senior Member, IEEE, and Syed Abbas
 
 
 There are three directories: 1) Entropic Vectors and Associated Distributions- Section III, 2) Inner Bounds- Section IV, 3) Network Coding- Section V.
